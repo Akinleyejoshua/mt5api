@@ -3,4 +3,5 @@ uvicorn
 mangum
 pydantic
 mangum
+mt5
 # Note: MetaTrader5 is omitted because it will fail on Netlify Linux
