@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+mangum
+pydantic
+mangum
+# Note: MetaTrader5 is omitted because it will fail on Netlify Linux
